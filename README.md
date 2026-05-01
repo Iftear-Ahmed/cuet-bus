@@ -43,7 +43,6 @@ Use the following credentials to explore all roles:
 ### 🎓 Students
 | Name | Email | Password | Student ID |
 |------|-------|----------|------------|
-| Asif Hasan | `asif@student.cuet.ac.bd` | `student123` | 2004001 |
 | Student 2 | `student2@student.cuet.ac.bd` | `student123` | 2004002 |
 | Student 3 | `student3@student.cuet.ac.bd` | `student123` | 2004003 |
 | ... | `student{N}@student.cuet.ac.bd` | `student123` | 2004{N} |
