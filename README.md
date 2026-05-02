@@ -33,12 +33,12 @@ Use the following credentials to explore all roles:
 ### 👨‍🏫 Supervisors
 | Name | Email | Password |
 |------|-------|----------|
-| Dr. Rahman | `rahman@cuet.ac.bd` | `super123` |
-| Prof. Kabir | `kabir@cuet.ac.bd` | `super123` |
-| Dr. Hossain | `hossain@cuet.ac.bd` | `super123` |
-| Prof. Alam | `alam@cuet.ac.bd` | `super123` |
-| Dr. Chowdhury | `chowdhury@cuet.ac.bd` | `super123` |
-| Prof. Uddin | `uddin@cuet.ac.bd` | `super123` |
+| Rahman | `rahman@cuet.ac.bd` | `super123` |
+| Kabir | `kabir@cuet.ac.bd` | `super123` |
+| Hossain | `hossain@cuet.ac.bd` | `super123` |
+| Alam | `alam@cuet.ac.bd` | `super123` |
+| Chowdhury | `chowdhury@cuet.ac.bd` | `super123` |
+| Uddin | `uddin@cuet.ac.bd` | `super123` |
 
 ### 🎓 Students
 | Name | Email | Password | Student ID |
